@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AMARIlyas](https://github.com/AMARIlyas)
 
-- 📝 I regularly write articles on [my personal blog.](my personal blog.)
+- 📝 I regularly write articles on **my personal blog.**
 
 - 📫 How to reach me **contact.ilyasamar@gmail.com**
 
