@@ -2,7 +2,7 @@
 <h3 align="center">👀 I’m interested in Coding since 2010.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
-- 🔭 I’m currently working on **LaunchIt**
+- 🔭 I’m currently working on **LaunchIt Project**
 
 - 🌱 I’m currently learning **JavaScript & Python.**
 
